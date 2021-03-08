@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.pn setfiletype filetype=potion
+au BufNewFile,BufRead *.pn setfiletype potion
